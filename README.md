@@ -1,7 +1,7 @@
 
 Clone the project
 
-## `git clone https://github.com/gitmil/react-hooks-use-effect-example.git`
+## `https://github.com/enochterrymize/react-hooks-use-effect.git`
 
 change to the project directory
 
